@@ -1,0 +1,197 @@
+body{
+    margin:0px auto;
+    width: 800px;
+}
+.Top_banner {
+    padding-bottom: 10px;
+    width: 80%;
+}
+.menu_bar {
+    width: 80%;
+    float: right;
+    overflow: hidden;
+}
+
+element.style {
+}
+.menu_bar li {
+    float: right;
+    margin-right: 25px;
+    list-style: none;
+}
+.menu_bar a {
+    font-size: 18px;
+    font-family: arial-black;
+    text-decoration: none;
+    color: #4e4747;
+}
+
+/*this is bodysection*/
+
+element.style {
+}
+section.SecBodySection {
+    padding-bottom: 101px;
+    overflow: hidden;
+}
+.BodySec {
+    height: 500px;
+    padding-bottom: 100px;
+    
+}
+.hWeidth {
+    width: 40%;
+    float: left;
+    padding: 10px 20px;
+}
+.hWeidth h1 {
+    font-size: 40px;
+    line-height: 15px;
+}
+img {
+    width: 100%;
+    float: right;
+}
+.stimg {
+    width: 70%;
+    float: left;
+}
+.btn {
+    border-radius: 5px;
+    pointer-events: visible;
+    line-height: 0px;
+    text-decoration: none;
+    border: 10px;
+    font-size: 20px;
+    background-image: linear-gradient(
+1deg
+, #e91e63, #d82f2f00);
+}
+/*this is for latest work*/
+
+element.style {
+}
+section#down {
+    background: border-box;
+    background-image: linear-gradient( 
+45deg
+ , #f7f7f7, transparent);
+    padding: 40px 20px 40px 20px;
+    overflow: hidden;
+}
+section#down h1 {
+    text-align: center;
+    padding: 20px;
+}
+.finalWie {
+    float: left;
+    width: 28%;
+    margin-left: 20px;
+}
+div#Power {
+    background: border-box;
+    border: 1px none;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+#{
+    margin-left: 0px;
+}
+p.Power_p {
+    margin-bottom: -10px;
+}
+div#Creative {
+    background: border-box;
+    border: 1px none;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+div#Harwork{
+    background: border-box;
+    border: 1px none;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.Latest_color{
+    color: red;
+}
+
+/*this is for gorup*/
+
+section#workingInq {
+    padding-top: 20px;
+    width: 100%;
+}
+.grouppng {
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    /: ;
+    position: relative;
+    text-align: center;
+}
+.Work_inq {
+    position: absolute;
+    top: 35px;
+    left: 25px;
+    font-size: 20px;
+    color: white;
+}
+.Work_inq h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+div#Chat_btn {
+    position: absolute;
+    font-size: 15px;
+    float: right;
+    left: 70%;
+    top: 23%;
+    background-color: red;
+}
+div#Chat_btn h2 {
+    color: white;
+}
+
+/*this is footer section*/
+section#footer {
+    width: 100%;
+    overflow: hidden;
+}
+section#footer p {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    text-transform: uppercase;
+}
+section#footer h1 {
+    text-align: center;
+    text-transform: lowercase;
+    vertical-align: text-top;
+}
+.footer_img {
+    width: 33%;
+    float: left;
+}
+
+.footer_img {
+    float: left;
+    margin-left: 41%;
+    width: 15%;
+}
+.footer_img img {
+    float: left;
+    margin-left: 15px;
+    width: 20%;
+}
+section#footer {
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
